@@ -36,6 +36,8 @@ Develop an automated, fault-tolerant solution that:
 1. Automatically creates and links `Workspace`, `Lead`, and `Account` records.
 2. Updates Salesforce in real-time with product lifecycle events via Platform Events or REST API.
 3. Provides actionable dashboards and notifications for sales reps and admins to act on customer data.
+4. This is how the Sales Rep will probably look like after the solution is implemented
+![happy-rep](images/happy-rep.webp)
 
 ---
 
