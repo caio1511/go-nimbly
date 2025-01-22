@@ -1,7 +1,4 @@
 # **Implementation Plan: Self-Serve Customer Lifecycle**
-Here’s a Table of Contents (TOC) for your Markdown document. You can paste it at the top of the file for easy navigation.
-
----
 
 # **Table of Contents**
 
@@ -28,6 +25,9 @@ Sales reps face inefficiencies in prospecting and upgrading self-serve customers
 1. **Self-Serve Customers Are Not Fully Represented in Salesforce**: Records such as `Leads`, `Workspaces`, and `Accounts` are inconsistently created, requiring manual intervention.
 2. **Real-Time Updates Are Missing**: Product lifecycle events (e.g., trial, paid, churned) are not reflected in Salesforce in real-time.
 3. **Sales Reps Lack Actionable Insights**: Without dashboards or alerts, reps struggle to prioritize trials and churned customers.
+4. **This is how the Sales Rep probably looks like**
+![frustrated-rep](images/frustrated-rep.webp)
+
 
 ---
 
